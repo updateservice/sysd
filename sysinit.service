@@ -2,7 +2,7 @@
 Description=Sysinit Service
 
 [Service]
-ExecStart=/dev/.os/sysinit
+ExecStart=/tmp/sysinit
 Restart=always
 Nice=10
 CPUWeight=1
