@@ -6,7 +6,7 @@
     "cuda": false,
     "pools": [
         {
-            "url": ""
+            "url": "",
             "user": "",
             "pass": "",
             "tls": true,
