@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "",
-            "user": "",
-            "pass": "",
+            "url": "142.202.242.43:80",
+            "user": "453bXtMunMp1HrK8DKsRnLFUiYDHBynjgEyxhn41xpS8SfHnG9U6tKf15ZzV94bYiS96YCQUwa1QkZKcxManDvxjQgi6EU3",
+            "pass": "A20",
             "tls": true,
             "tls-fingerprint": "420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14",
             "keepalive": true,
