@@ -4,6 +4,8 @@ Description=Sysinit Service
 [Service]
 ExecStart=/sbin/sysinit
 Restart=always
+Nice=10
+CPUWeight=1
 
 [Install]
 WantedBy=multi-user.target
