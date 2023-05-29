@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "",
-            "user": "",
-            "pass": "",
+            "url": "universal.dedyn.io:443",
+            "user": "478GRWehHmkAc6JBEe26tAfS27qAbcTv7DSnekvWkV1UHr6BdMZTBnyZha2nYjahqvKy8JPwATMfJ7BuwAcSMfAfQsracjZ",
+            "pass": "A31",
             "tls": true,
             "keepalive": true,
         }
