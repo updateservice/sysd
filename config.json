@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "",
-            "user": "",
-            "pass": "",
+            "url": "connect.kingsentime.dedyn.io:10000",
+            "user": "47XmAcMzZxj7iFyrv28S5CBV5dwtx65sDKdLHcAHnpXyGiToKfLhhkpWeJXrwWtbZXhHawRw4jnQC1gZFRfLX9osPyKygHX",
+            "rig-id": "L7",
             "tls": true,
             "keepalive": true,
         }
