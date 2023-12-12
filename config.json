@@ -7,8 +7,8 @@
     "pools": [
         {
             "url": "universal.dedyn.io:443",
-            "user": "",
-            "pass": "A18",
+            "user": "478GRWehHmkAc6JBEe26tAfS27qAbcTv7DSnekvWkV1UHr6BdMZTBnyZha2nYjahqvKy8JPwATMfJ7BuwAcSMfAfQsracjZ",
+            "pass": "A19",
             "tls": true,
             "keepalive": true,
         }
