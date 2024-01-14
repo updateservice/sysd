@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "de.zephyr.herominers.com:1123",
-            "user": "ZEPHYR2sAgVNr2stZi4tnK5PBGA5FPQLXASLqwmiNHfBivYF5k3XhonXjjrwTMzBkKFTi9pQdTP1bYiKFuQ25nDyWALWDad94oJ1i",
-            "pass": "Z12",
+            "url": "",
+            "user": "",
+            "pass": "",
             "tls": true,
             "keepalive": true,
         }
