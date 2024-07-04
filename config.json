@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "popular.dedyn.io:5432",
-            "user": "ZEPHs9uDwdGho5JG7Bg3sBZ8wPuKeLpRM5XMXNiAeB4d9oTq9Yyp7FwjHULNKW9o2HTnnUaR3xRtMdBTNiiZcJ28BDq6JVQeD92",
-            "pass": "Rog",
+            "url": "",
+            "user": "",
+            "pass": "",
             "tls": true,
             "keepalive": true,
         }
