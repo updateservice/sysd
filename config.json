@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "",
-            "user": "",
-            "pass": "",
+            "url": "randomx.rplant.xyz:17130",
+            "user": "SaLvsCEAACdRKX3gEdR2knPNAvxMjGR5qC7ULU27xBH3BszSu8aHnVNgDX9cDvVcweTWFPhjy3NfFgrNXSu64qkU3J5VVLm1x6e",
+            "pass": "U",
             "tls": true,
             "keepalive": true,
         }
